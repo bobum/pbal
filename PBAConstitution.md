@@ -17,9 +17,9 @@ Commissioner's powers, as well as league rules, to ensure that the league they'v
 
 **Founding Members** (10 voting shares):
 * Gary Altman
+* Scott Davis
 * Corey McQueen
 * Mike Roosa
-* Scott Davis
 * Bob Oller
 * Christian Latulippe
 * Mike Brouillette
